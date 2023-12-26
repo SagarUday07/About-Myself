@@ -46,7 +46,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2023 Uday Sagar Vemula | www.SagarVemula.com</p>
+    <p>&copy; 2023 Uday Sagar Vemula | [www.SagarVemula.com](https://sagaruday07.github.io/About-Myself/)https://sagaruday07.github.io/About-Myself/</p>
   </footer>
 </body>
 </html>
